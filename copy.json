@@ -1,0 +1,23 @@
+{
+  "name": "Dark Cyber",
+  "cursorColor": "#00FF4F",
+  "selectionBackground": "#575757",
+  "background": "#000000",
+  "foreground": "#1400FF",
+  "black": "#1A1A1A",
+  "blue": "#FF0045",
+  "cyan": "#007B88",
+  "green": "#08D220",
+  "purple": "#FF00BF",
+  "red": "#FF000F",
+  "white": "#9C9C9C",
+  "yellow": "#DFC200",
+  "brightBlack": "#292929",
+  "brightBlue": "#4164FF",
+  "brightCyan": "#4DBCED",
+  "brightGreen": "#8FFF00",
+  "brightPurple": "#9354FF",
+  "brightRed": "#EF6B73",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#1400FF"
+}
